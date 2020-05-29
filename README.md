@@ -3,13 +3,17 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
 
 ## Pages Included
 
-* About
+* Home
+* About Me
+* My Resume
+* Services
 * Portfolio
 * Links:
-    1. [DisneyWordGuess](https://mayhugh82.github.io/WordGuessGame/)
-    2. [XenaRPGGame](https://mayhugh82.github.io/Xena-RPG-Game/)
+    1. [EclipseProject](https://alaclair.github.io/Space_Travel_App/)
+    2. [TVShowWidget](https://mayhugh82.github.io/Giftastic/)
     3. [HarryPotterTriviaGame](https://mayhugh82.github.io/TriviaGame/)
-    4. [TVShowWidget](https://mayhugh82.github.io/Giftastic/)
+    4. [DisneyWordGuess](https://mayhugh82.github.io/WordGuessGame/)
+    5. [XenaRPGGame](https://mayhugh82.github.io/Xena-RPG-Game/)
 * Contact
 
 
