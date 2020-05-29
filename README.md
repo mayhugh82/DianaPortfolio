@@ -19,7 +19,8 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
 * CSS
 * Javascript
 * jQuery
+* template purchased from themeforest
 
 ## Authors
 
-* **Diana Mayhugh** - *Initial work* - [DianaMayhughPortfolio]( https://mayhugh82.github.io/Responsive-Portfolio/)
+* **Diana Mayhugh** - [DianaMayhughPortfolio]( https://mayhugh82.github.io/DianaPortfolio/)
