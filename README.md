@@ -14,6 +14,7 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
     3. [HarryPotterTriviaGame](https://mayhugh82.github.io/TriviaGame/)
     4. [DisneyWordGuess](https://mayhugh82.github.io/WordGuessGame/)
     5. [XenaRPGGame](https://mayhugh82.github.io/Xena-RPG-Game/)
+    6. [LiriBot](https://github.com/mayhugh82/liri-node-app)
 * Contact
 
 
