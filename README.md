@@ -1,5 +1,5 @@
 # DianaPortfolio
-This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the future.
+This is a digital portfolio about Diana Mayhugh.
 
 ## Pages Included
 
