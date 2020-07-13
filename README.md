@@ -6,7 +6,6 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
 * Home
 * About Me
 * My Resume
-* Services
 * Portfolio
 * Links:
     1. [EclipseProject](https://alaclair.github.io/Space_Travel_App/)
@@ -15,7 +14,7 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
     4. [DisneyWordGuess](https://mayhugh82.github.io/WordGuessGame/)
     5. [XenaRPGGame](https://mayhugh82.github.io/Xena-RPG-Game/)
     6. [LiriBot](https://github.com/mayhugh82/liri-node-app)
-* Contact
+
 
 
 ### Programming Languages Used
