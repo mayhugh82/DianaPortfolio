@@ -24,7 +24,6 @@ This is a Portfolio about Diana Mayhugh.  I hope to add projects to it in the fu
 * CSS
 * Javascript
 * jQuery
-* template purchased from themeforest
 
 ## Authors
 
